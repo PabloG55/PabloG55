@@ -15,44 +15,6 @@ I'm a Computer Science student passionate about building meaningful tech solutio
 
 ---
 
-## 🧠 Experience Highlights
-
-### 🔧 Software Engineering Volunteer  
-**Galápagos National Park Directorate** – Galápagos Islands, Ecuador  
-*Jun 2024 – Jul 2024*  
-- Migrated an internal data collection app to support iOS devices using Flutter  
-- Optimized 8 modules and 43 submodules for smaller screens  
-- Tested a new billing system for Baltra airport
-
-### 👨‍🏫 Undergraduate Instructional Assistant  
-**University of North Carolina at Charlotte**  
-*Aug 2024 – Present*  
-- Lead labs and evaluate coursework for ITSC 2181 (Intro to Computer Systems)  
-- Provide hands-on support and clear feedback to over 90 students
-
-### 🧑‍🏫 Honeywell Peer Mentor  
-**Central Piedmont Community College**  
-*Aug 2023 – Dec 2023*  
-- Delivered personalized tutoring for Pre-Calculus Algebra  
-- Empowered mentees through tailored plans and academic advising
-
----
-
-## 🏆 Honors & Scholarships
-
-- **LAWA Marand Builders Scholarship** (2025–2026)  
-- **Levine Scholarship** – Central Piedmont  
-- **Truist Honors Program Scholarship**  
-
----
-
-## 💬 Languages
-
-- 🇪🇸 Spanish – Native/Bilingual  
-- 🇺🇸 English – Full Professional Proficiency
-
----
-
 ## 🌐 Let's Connect
 
 - 🔗 [Portfolio Website]([https://yourwebsite.com](https://webpages.charlotte.edu/pgarces))
