@@ -17,7 +17,7 @@ I'm a Computer Science student passionate about building meaningful tech solutio
 
 ## 🌐 Let's Connect
 
-- 🔗 [Portfolio Website](https://webpages.charlotte.edu/pgarces)
+- 🔗 [Portfolio Website](https://react-portfolio-alpha-gray.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablogarces5)
 - 📫 Email: pgarcesb1@gmail.com
 
